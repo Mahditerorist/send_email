@@ -21,7 +21,7 @@ setup = Email(
     To='mahdiahmadi.1208@gmail.com',
     text='hi',
     Title='Codern',
-    Token='d9206bbfc8ec95fbf2c2c07f1f295014',
+    Token=None,
     Input='iran'
 )
 
@@ -87,7 +87,7 @@ setup = Email(
     To='mahdiahmadi.1208@gmail.com',
     text='hi',
     Title='Codern',
-    Token='d9206bbfc8ec95fbf2c2c07f1f295014',
+    Token=None,
     Input='iran'
 )
 
