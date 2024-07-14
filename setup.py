@@ -6,7 +6,7 @@ def read_file(filename):
 
 setup(
     name='send_email',
-    version='0.1',
+    version='0.2',
     packages=find_packages(),
     install_requires=[
         'requests',
@@ -17,8 +17,8 @@ setup(
     long_description=read_file('README.md'),
     long_description_content_type='text/markdown',
     url='https://github.com/Mahditerorist/send_email',
-    author='Your Name',
-    author_email='your-email@example.com',
+    author='Mahdi Ahmadi',
+    author_email='mahdiahmadi.1208@gmail.com',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
