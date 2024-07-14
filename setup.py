@@ -6,7 +6,7 @@ def read_file(filename):
 
 setup(
     name='send_email',
-    version='0.1',
+    version='0.2',
     packages=find_packages(),
     install_requires=[
         'requests',
